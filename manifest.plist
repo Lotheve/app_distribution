@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.10jqka.enterprise.stockAccount</string>
+				<string>com.flowerxiaoyao.lotheve</string>
 				<key>bundle-version</key>
-				<string>1.90.01</string>
+				<string>1.00.01</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>HXStockAccount</string>
+				<string>逍遥花</string>
 			</dict>
 		</dict>
 	</array>
